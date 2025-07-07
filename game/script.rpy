@@ -21,6 +21,6 @@ label start:
 
     g "Hello, we are testing"
 
-    n "And I am super sexxyyyy"
+    n "Stay celibate sluts"
 
     return

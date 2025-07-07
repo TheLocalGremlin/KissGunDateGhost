@@ -5,3 +5,12 @@ game/saves/navigation.json
 game/saves/persistent
 log.txt
 *.json
+game/cache/screens.rpyb
+game/cache/shaders.txt
+game/gui.rpyc
+game/options.rpyc
+game/saves/navigation.json
+game/saves/persistent
+game/screens.rpyc
+log.txt
+game/tl/None/common.rpymc
