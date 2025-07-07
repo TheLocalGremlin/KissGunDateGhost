@@ -1,2 +1,7 @@
 log.txt
 log.txt
+game/cache/shaders.txt
+game/saves/navigation.json
+game/saves/persistent
+log.txt
+*.json
