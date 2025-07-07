@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 7: invalid syntax
+    /game/Art/Backgrounds/Barn.jpg
+     ^
+
+File "game/script.rpy", line 8: invalid syntax
+    /game/Art/Characters/EvilGun_neutral.png
+     ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Mon Jul  7 17:59:20 2025
